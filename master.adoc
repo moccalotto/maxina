@@ -1,7 +1,82 @@
+:author: Kim Ravn Hansen
+:revdate: {docdate}
+:revnumber: 0.1
+:email:  email@server.com
+:copyright: CC-BY-SA 3.0
+:doctype: book
+:doctitle: Maxina RPG
+:producer: Kim Ravn Hansen
+:creator: Kim Ravn Hansen
+:description: A tabletop roleplaying game for the fun, fantastic future
+:keywords: ttrpg, tabletop roleplaying game
+:lang: en
+:toc: left
+:toclevels: 2
+:sectnumlevels: 2
+:numbered:
+:icons: font
+:icon-set: fi
+:imagesdir: {docdir}/images
+:stem: latexmath
+:experimental:
+:hide-uri-scheme:
+:chapter-label: Chapter
+:appendix-caption: Appendix
+:plantuml-config: {docdir}/_conf/umlconfig.txt
+ifdef::backend-html5[]
+:data-uri:
+:mathematical-format: svg
+:mathematical-ppi: 300
+endif::[]
+
+ifdef::backend-pdf[]
+:media: prepress
+:pdf-stylesdir: _resources/pdfstyles
+:pdf-style: default
+:mathematical-format: svg
+endif::[]
+
+ifdef::backend-epub3[]
+:imagesdir: images
+:epub3-stylesdir: _resources/epubstyles
+:ebook-validate:
+:mathematical-format: svg
+:mathematical-inline: true
+endif::[]
+////
+:front-cover-image: images/cover.png
+:title-logo-image: image:logo.png[Logo,100,100]
+:source-language: swift
+:source-highlighter: rouge
+:codedir: {docdir}/code
+:datadir: {docdir}/data
+
+
+ifdef::ebook-format-kf8[]
+// Settings for Kindle
+endif::[]
+////
+
 = Maxina RPG
 
-Welcome. This is the Maxina tabletop roleplaying game. It’s a pretty conventional tabletop rpg. We assume that you have prior knowledge of rpgs. If you haven’t, there are a myriad of free resources such as blogs, vlogs, podcasts, videos, etc you can consult to get you primed.
+Welcome. This is the Maxina tabletop roleplaying game. It’s a pretty
+conventional tabletop rpg. We assume that you have prior knowledge of rpgs. If
+you haven’t, there are a myriad of free resources such as blogs, vlogs,
+podcasts, videos, etc you can consult to get you primed.
 
-The game takes place in an alternate future where magic and cyberware exist side-by-side and technology, although advanced, can seem much more crude than the tech we use today. 
+The game takes place in an alternate future where magic and cyberware exist
+side-by-side and technology, although advanced, can seem much more crude than
+the tech we use today. 
 
-We’ve written a small primer on the world in the Maxina Campaign booklet. You do not need that booklet to play the game; we’ve written it to give you some fluff and inspiration, but you can make the game your own by inventing your own background history. 
+We’ve written a small primer on the world in the Maxina Campaign booklet. You
+do not need that booklet to play the game; we’ve written it to give you some
+fluff and inspiration, but you can make the game your own by inventing your own
+background history. 
+
+include::chapters/the_character.adoc[]
+
+include::chapters/appendix.adoc[]
+
+ifdef::backend-pdf[]
+include::chapters/index.adoc[]
+endif::[]

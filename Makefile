@@ -28,9 +28,6 @@ compressed_pdf: _build/compressed_book.pdf
 
 epub: _build/book.epub
 
-stats:
-	wc -w course/*.adoc
-
 clean:
 	if [ -d ".asciidoctor" ]; \
 		then rm -r .asciidoctor; \
