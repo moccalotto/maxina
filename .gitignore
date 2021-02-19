@@ -1,5 +1,9 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+?
+.DS_Store
+_build
+.asciidoctor
+chapters/images
+stem-*.png
+stem-*.svg
+diag-*.png
+diag-*.svg
