@@ -1,0 +1,132 @@
+== The character
+Your character has a bunch of stats and stuff. We’ll go through all of them in
+this section.
+
+All of the stuff that has to do with your character goes into this chapter. As
+such there may be times where you may have to refer to the Playing The Game
+chapter to get the whole picture. If you run into a term or word you don’t
+understand, you can also refer to the Dictionary chapter, where we briefly
+discuss all the technical terms of the game. 
+
+=== Stats
+Sometimes called attributes or ability scores in other systems, your stats are
+the core numbers that make up the foundation of your character. The human
+average score is 0. A new character's scores range from -2 to +4. 
+
+(((Stats, Ballistics)))(((Stats, BAL)))
+Ballistics (BAL)::
+Your ability to use/shoot ranged and ballistics weapons such as pistols,
+rifles, throwing knives, and throwing grenades.
+
+Melee (MEL)::
+Your close quarter combat ability. Including brawling and melee weapons.
+
+Body (BOD)::
+Your health, stamina, strength, fortitude. 
+
+Acrobatics (ACR)::
+Your ability to do acrobatic maneuvers. Dodging, balancing, certain martial arts moves, etc.
+
+Essence (ESS)::
+Your ability to use magical abilities as well as your ability to power cyberware. 
+
+Influence (INF)::
+Ability to sense motive, charm, intimidate, negotiate, etc.
+
+Technomancy (TEC)::
+Your ability to use, manipulate, create, and repair technological devices.
+
+Senses (SEN)::
+Initiative, ability to spot and investigate hidden things.
+
+Intelligence (INT)::
+Knowledge, logic, and deduction.
+
+Assign _2d4-4_ to each stat. If you are not happy with the generated stats, you
+can instead choose to assign the values  _+4, +3, +2, +1, +1, 0, 0, -1, -1_ to
+your stats in whichever order you want.
+
+
+=== Ancestry
+
+Sometimes called races in other systems, your ancestry affects your stats and
+may grant you access to special perks. We will briefly go through the races
+here, but you can find more detailed information in the Maxina Campaign
+booklet.
+
+==== Original Human
+> Origina, Purist, Mundo, Normie
+
+
+Original humans have not been modified by technology or magic. They are as
+average as you and I. Original Humans suffer less racism than the other 21st
+century ancestries. 
+
+
+Dual Nature::
+Original Humans gain access to the special Dual Nature perk that allows them to
+use magical abilities and cyberware at the same time, something that cannot
+normally be done. In order to use supernatural abilities, you must still have
+the Mage, Shaman, or Monk perk. 
+
+Extra Perk::
+Original Human characters have an extra Perk of their choosing, giving them a
+total of two free perks at character creation.
+
+Extra Skill::
+Original Humans characters gain the Extra Skill Perk for free.
+
+
+==== Beastkin
+> Beastie, Beast.
+> Wolfkin, Wolfie, Werewolf, Doggo, Mutt.
+> Bear, Bearkin, Werebear,  Teddy, Bearman/girl.
+> Birdkin, Hooter, Crow, Ducky, Fowl man/woman, Tweeter.
+> Croc, Snake, Lizard, Scale-face. 
+
+When magic entered the world, about 1 percent of all humans became bonded with
+newly awoken animal spirits. The majority of the humans bonded were those
+living in close harmony with nature, such as indigenous peoples.  The bonded
+people, called Beastkin, gained some of the traits of their bonded spirit. Some
+grew wolf ears, others bear paws, and others grew fur, feathers, scales, large
+canines, or tails. Their descendants are now formally known as Beastkin, but a
+slew of derogatory nicknames exist for each beastkin subtype.
+
+Animal Appearance::
+Your ancestors were bound to an animal spirit. Their appearances were altered
+by this bond, and you have inherited those traits. Your physical appearance has
+some of the characteristics of your ancestors’ bonded spirit.
+
+Stat Boost::
+Beastkin can increase two of the following Stats by 1 point: Body,  Acrobatics,
+Essence, Influence, or Senses.
+
+Improved Senses::
+Beastkin can choose the Nightvision or the Improved Perception perk for free.
+
+Animal Traits::
+Beastkin can choose one of the following perks for free: Gills, Stocky,
+Cold-blooded, Sleepless, Improved Movement Rate, Improved Stress Buffer.
+
+
+==== Dragonkin
+> Drake, Comodo, Wyrm.
+
+When magic entered the world, about 2 percent of the human population bonded with the Draconic Magic of the Maxina. These humans gained draconic, slightly lizard-like appearances and traits.
+
+Fire Breath: You can spend 1 Action and 1 Surge Point to unleash a draconic Fire Breath
+
+Draconic Fire Breath
+A line of deadly hot fire streams from your mouth, scorching everyone it its path.
+Type: Ability
+Area: AoE Line:5
+Damage: 1d10 D
+Defense: D20+ACR+LVL vs 10+ESS + LVL
+
+
+
+Pseudo-Flight: You can use a 1 action and 1 Stunt Point to Dragonic Magic to almost fly. You can jump up to 10 squares horizontally and/or 5 squares vertically as 1 action
+
+Stat Boost: Dragonkin gain a Stat Boost to either BOD, INT or INF.
+
+Dragon Blood: Dragonkin cannot use cyberware because their special blood cannot power it. Dragonkin can, however, regenerate lost body parts if they receive correct Hospital Care or magical equivalent.

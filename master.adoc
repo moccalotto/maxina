@@ -66,7 +66,11 @@ EPUB generation uses the "bw" style (i.e., black and white.)
 
 :sectnums!:
 
+include::chapters/00_intro.adoc[]
+
 :sectnums:
+
+include::chapters/01-character.adoc[]
 
 include::chapters/glossary.adoc[]
 

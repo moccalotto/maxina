@@ -15,7 +15,9 @@ KINDLE = ${EPUB} -a ebook-format=kf8
 
 # Public targets
 
-all: manpage html raw_html pdf compressed_pdf epub kindle
+# all: manpage html raw_html pdf compressed_pdf epub kindle
+
+all: clean html pdf
 
 manpage: _build/book.1
 
@@ -32,7 +34,7 @@ epub: _build/book.epub
 kindle: _build/book.mobi
 
 stats:
-	wc -w course/*.adoc
+	wc -w chapters/*.adoc
 
 clean:
 	if [ -d ".asciidoctor" ]; \

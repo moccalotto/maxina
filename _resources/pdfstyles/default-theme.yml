@@ -140,8 +140,9 @@ admonition:
 #      size: 24
 blockquote:
   font_color: $base_font_color
-  font_size: $base_font_size_large
+  font_size: $base_font_size_small
   border_color: $base_border_color
+  font_style: italic
   border_width: 5
   padding: [$vertical_rhythm / 2, $horizontal_rhythm, $vertical_rhythm / -2, $horizontal_rhythm + $blockquote_border_width / 2]
   cite_font_size: $base_font_size_small
