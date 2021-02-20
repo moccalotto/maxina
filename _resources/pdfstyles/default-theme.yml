@@ -181,7 +181,7 @@ sidebar:
   border_width: $base_border_width
   background_color: eeeeee
   # FIXME reenable margin bottom once margin collapsing is implemented
-  padding: [$vertical_rhythm, $vertical_rhythm * 1.25, 0, $vertical_rhythm * 1.25]
+  # padding: [$vertical_rhythm, $vertical_rhythm * 1.25, 0, $vertical_rhythm * 1.25]
   title:
     align: center
     font_color: $heading_font_color
@@ -195,9 +195,10 @@ thematic_break:
   margin_top: $vertical_rhythm * 0.5
   margin_bottom: $vertical_rhythm * 1.5
 description_list:
-  term_font_style: italic
-  term_spacing: $vertical_rhythm / 4
-  description_indent: $horizontal_rhythm * 1.25
+  term_font_style: bold
+  # term_spacing: $vertical_rhythm / 4
+  # description_indent: $horizontal_rhythm * 1.25
+  description_indent: $horizontal_rhythm / 2
 outline_list:
   indent: $horizontal_rhythm * 1.5
   # NOTE item_spacing applies to list items that do not have complex content

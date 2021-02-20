@@ -1,0 +1,37 @@
+==== Beastkin
+> Beastie, Beast.
+> Wolfkin, Wolfie, Werewolf, Doggo, Mutt.
+> Bear, Bearkin, Werebear,  Teddy, Bearman/girl.
+> Birdkin, Hooter, Crow, Ducky, Fowl man/woman, Tweeter.
+> Croc, Snake, Lizard, Scale-face.
+
+NOTE: Beastkin are more than just one single ancestry. They are an entire class
+of ancestries, including such members as wolfkin, bearkin, apekin, ravenkin,
+eaglekin, lizardkin, and the like.  Most beastkin sub-species are tied to a
+specific species of animal.
+
+When magic entered the world, about 1 percent of all humans became bonded with
+newly awoken animal spirits. The majority of the humans bonded were those
+living in close harmony with nature, such as indigenous peoples.  The bonded
+people, called Beastkin, gained some of the traits of their bonded spirit. Some
+grew wolf ears, others bear paws, and others grew fur, feathers, scales, large
+canines, or tails. Their descendants are now formally known as Beastkin, but a
+slew of derogatory nicknames exist for each beastkin subtype.
+
+Animal Appearance::
+Your ancestors were bound to an animal spirit. Their appearances were altered
+by this bond, and you have inherited those traits. Your physical appearance has
+some of the characteristics of your ancestors’ bonded spirit.
+
+Stat Boost::
+Beastkin can increase two of the following Stats by 1 point: Body,  Acrobatics,
+Essence, Influence, or Senses.
+
+Improved Senses::
+Beastkin can choose the Nightvision or the Improved Perception perk for free.
+
+Animal Traits::
+Beastkin can choose one of the following perks for free: Gills, Stocky,
+Cold-blooded, Sleepless, Improved Movement Rate, Improved Stress Buffer.
+
+

@@ -23,6 +23,7 @@
 // :source-highlighter: rouge
 // :codedir: {docdir}/code
 :datadir: {docdir}/data
+:ancestry_dir: {docdir}/ancestries
 :experimental:
 :stem: latexmath
 :hide-uri-scheme:

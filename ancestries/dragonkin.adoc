@@ -1,0 +1,34 @@
+==== Dragonkin
+> Drake, Comodo, Wyrm.
+
+When magic entered the world, about 2 percent of the human population bonded
+with the Draconic Magic of the Maxina. These humans gained draconic, slightly
+lizard-like appearances and traits.
+
+Pseudo-Flight::
+You can use a 1 action and 1 Stunt Point to Dragonic Magic to almost fly. You
+can jump up to 10 squares horizontally and/or 5 squares vertically as 1 action
+
+Stat Boost::
+Dragonkin gain a Stat Boost to either BOD, INT or INF.
+
+Dragon Blood::
+Dragonkin cannot use cyberware because their special blood cannot power it.
+Dragonkin can, however, regenerate lost body parts if they receive correct
+Hospital Care or magical equivalent.
+
+
+Fire Breath::
+You can spend 1 Action and 1 Surge Point to unleash a draconic Fire Breath
+[sidebar]
+.Dragonkin Firebreath
+--
+> A line of deadly hot fire streams from your mouth, scorching everyone in its path.
+
+*Type*:     _Ability_,
+*Area*:     _AoE Line:5_,
+*Damage*:   _1d10 D_,
+*Defense*:  _D20+ACR+LVL vs 10+ESS + LVL_,
+*Actions*:  _1_,
+*Cost*:     _1 Surge Point_
+--
