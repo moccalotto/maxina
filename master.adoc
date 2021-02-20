@@ -1,0 +1,76 @@
+:author: Kim Ravn Hansen
+:revdate: {docdate}
+:revnumber: 1.0
+:email:  email@server.com
+:copyright: CC-BY-SA 4.0
+:doctype: book
+:doctitle: Maxina: Fun, Futuristic Fantasy
+:producer: Kim Ravn Hansen
+:creator: Kim Ravn Hansen
+:description: A guide to survive in this world
+:keywords: TTRPG, Sci-Fi, Fantasy, Futuristic, Tabletop Roleplaying Game
+:front-cover-image: images/cover.png
+:title-logo-image: image:logo.png[Logo,100,100]
+:lang: en
+:toc: left
+:toclevels: 2
+:sectnumlevels: 2
+:numbered:
+:icons: font
+:icon-set: fi
+:imagesdir: {docdir}/images
+// :source-language: swift
+// :source-highlighter: rouge
+// :codedir: {docdir}/code
+:datadir: {docdir}/data
+:experimental:
+:stem: latexmath
+:hide-uri-scheme:
+:chapter-label: Chapter
+:appendix-caption: Appendix
+:plantuml-config: {docdir}/_resources/umlconfig.txt
+
+ifdef::backend-html5[]
+:data-uri:
+:mathematical-format: svg
+:mathematical-ppi: 300
+endif::[]
+
+ifdef::backend-pdf[]
+:media: prepress
+:pdf-stylesdir: _resources/pdfstyles
+:pdf-style: default
+:mathematical-format: svg
+endif::[]
+
+ifdef::backend-epub3[]
+:imagesdir: images
+:epub3-stylesdir: _resources/epubstyles
+:ebook-validate:
+:mathematical-format: svg
+:mathematical-inline: true
+endif::[]
+
+ifdef::ebook-format-kf8[]
+// Settings for Kindle
+endif::[]
+
+////
+Do not use ":pygments-css: class" in the block above, as this blocks
+the generation and/or display of highlighted code in EPUB output.
+Also, the ":pygments-style: xcode" is required, since by default the
+EPUB generation uses the "bw" style (i.e., black and white.)
+////
+
+= {doctitle}
+
+:sectnums!:
+
+:sectnums:
+
+include::chapters/glossary.adoc[]
+
+ifdef::backend-pdf[]
+include::chapters/index.adoc[]
+endif::[]
+
