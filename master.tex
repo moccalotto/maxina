@@ -1,0 +1,50 @@
+\documentclass[
+a4paper,
+11pt,
+twoside,
+openany
+]{memoir}
+\usepackage[paper=a4paper,bindingoffset=2cm,margin=2.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[USenglish]{babel}
+\usepackage{multicol}
+\usepackage{varioref}
+\usepackage{microtype}
+
+\date{} % don't display a date on the front page
+
+\newcommand{\chappy}[1]{\chapter{#1}\label{#1}}
+
+\title{Maxina: Fun, Futuristic Fanyasy}
+
+\author{Kim Ravn Hansen}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+Welcome. This is the Maxina tabletop roleplaying game. It’s a
+pretty conventional tabletop rpg. We assume that you have prior knowledge of
+rpgs. If you haven’t, there are a myriad of free resources such as blogs,
+vlogs, podcasts, videos, etc you can consult to get you primed.
+
+The game takes place in an alternate future where magic and cyberware exist
+side-by-side and technology, although advanced, can seem much more crude than
+the tech we use today. 
+
+We’ve written a small primer on the world in the Maxina Campaign booklet. You
+do not need that booklet to play the game; we’ve written it to give you some
+fluff and inspiration, but you can make the game your own by inventing your own
+background history. 
+
+\input{chapters/01-character.tex}
+\input{chapters/glossary.tex}
+
+\appendix
+
+\end{document}
