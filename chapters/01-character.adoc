@@ -145,3 +145,7 @@ Senses, and Intelligence.
 Improved Senses::
 Infiltrators gain one of the following Perks for free: Connected, Improved
 Perception, Observant, Rich, Sleepless.
+
+
+
+Refer to <<Stats>>

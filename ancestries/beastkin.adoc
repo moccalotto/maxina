@@ -1,9 +1,13 @@
+
 ==== Beastkin
-> Beastie, Beast.
-> Wolfkin, Wolfie, Werewolf, Doggo, Mutt.
-> Bear, Bearkin, Werebear,  Teddy, Bearman/girl.
-> Birdkin, Hooter, Crow, Ducky, Fowl man/woman, Tweeter.
-> Croc, Snake, Lizard, Scale-face.
+
+____
+Beastie, Beast.
+Wolfkin, Wolfie, Werewolf, Doggo, Mutt.
+Bear, Bearkin, Werebear,  Teddy, Bearman/girl.
+Birdkin, Hooter, Crow, Ducky, Fowl man/woman, Tweeter.
+Croc, Snake, Lizard, Scale-face.
+____
 
 NOTE: Beastkin are more than just one single ancestry. They are an entire class
 of ancestries, including such members as wolfkin, bearkin, apekin, ravenkin,
