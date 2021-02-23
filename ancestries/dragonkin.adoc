@@ -23,6 +23,7 @@ Hospital Care or magical equivalent.
 
 Fire Breath::
 You can spend 1 Action and 1 Surge Point to unleash a draconic Fire Breath
+
 [sidebar]
 .Dragonkin Firebreath
 --

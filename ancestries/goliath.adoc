@@ -1,8 +1,7 @@
 // MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
 
-==== Neo-Human, Goliath
-((( Ancestry, Goliath )))
-((( Goliath )))
+==== Neo-Human, Goliath ((( Ancestry, Goliath ))) ((( Goliath )))
+
 > Ogre, Frankensteiner, Frank.
 
 Goliaths are vat-grown warriors that were originally created by the millions
