@@ -1,6 +1,6 @@
+// MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
 
-==== Beastkin
-
+==== Beastkin ((( Ancestry, Beastkin ))) ((( Beastkin )))
 ____
 Beastie, Beast.
 Wolfkin, Wolfie, Werewolf, Doggo, Mutt.
@@ -37,5 +37,3 @@ Beastkin can choose the Nightvision or the Improved Perception perk for free.
 Animal Traits::
 Beastkin can choose one of the following perks for free: Gills, Stocky,
 Cold-blooded, Sleepless, Improved Movement Rate, Improved Stress Buffer.
-
-

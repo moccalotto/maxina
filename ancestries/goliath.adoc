@@ -1,0 +1,24 @@
+// MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
+
+==== Neo-Human, Goliath
+((( Ancestry, Goliath )))
+((( Goliath )))
+> Ogre, Frankensteiner, Frank.
+
+Goliaths are vat-grown warriors that were originally created by the millions
+during the Cold War. Though not intended, some Goliaths were able to reproduce
+and so the Goliath race was created.
+
+Goliaths resemble Original Humans, but are often a bit taller, stronger, and
+more robust. 
+
+About .1% of the world’s population are Goliaths.
+
+Construct::
+Neo-Humans, cannot use magic in any way, and can never obtain the Magical Nature perk.
+
+Strong:: 
+Goliaths gain a Stat Boost to BOD.
+
+Tough:: 
+Goliaths gain the following perks for free: Improved Movement Rate, Improved Stress Buffer, and Stocky.

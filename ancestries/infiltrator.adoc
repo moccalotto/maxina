@@ -1,0 +1,28 @@
+// MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
+
+==== Neo-Human, Infiltrator ((( Ancestry, Infiltrator ))) ((( Infiltrator )))
+> Agent, Elf, Face, Judas.
+
+These vat-grown people are designed to be personable and attractive so they can
+be used as spies, influencers, and clandestine operators. 
+
+They were originally produced during the Cold War, and are still produced to
+this day. This means that some Infiltrators are descendants of the ones created
+more than a century ago, and others are fresh out of the vat. 
+
+Most Infiltrators are designed to look like Original Humans, but some have been
+engineered to look like Beastkin, Dragonkin or even other types of Neo-Human.
+It is almost impossible to determine that a given person is an Infiltrator, and
+not the real deal.
+
+Construct::
+Neo-Humans, cannot use magic in any way, and can never obtain the Magical
+Nature perk.
+
+Pretty and witty::
+Infiltrators gain a boost to two of the following attributes: Influence,
+Senses, and Intelligence.
+
+Improved Senses::
+Infiltrators gain one of the following Perks for free: Connected, Improved
+Perception, Observant, Rich, Sleepless.

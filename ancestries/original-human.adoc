@@ -1,5 +1,7 @@
-==== Original Human
-> Origina, Purist, Mundo, Normie
+// MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
+
+==== Original Human ((( Ancestry, Original Human ))) ((( Human ))) ((( Original Human )))
+> Original, Purist, Mundo, Normie
 
 
 Original humans have not been modified by technology or magic. They are as
@@ -19,5 +21,3 @@ total of two free perks at character creation.
 
 Extra Skill::
 Original Humans characters gain the Extra Skill Perk for free.
-
-

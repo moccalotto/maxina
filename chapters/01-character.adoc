@@ -6,10 +6,11 @@ this section.
 All of the stuff that has to do with your character goes into this chapter. As
 such there may be times where you may have to refer to the Playing The Game
 chapter to get the whole picture. If you run into a term or word you don’t
-understand, you can also refer to the Dictionary chapter, where we briefly
+understand, you can also refer to the Glossary chapter, where we briefly
 discuss all the technical terms of the game.
 
 === Stats
+((( Stats )))
 
 Sometimes called attributes or ability scores in other systems, your stats are
 the core numbers that make up the foundation of your character. The human
@@ -17,39 +18,48 @@ average score is 0. A new character's scores range from -2 to +4.
 
 Ballistics (BAL)::
 (((Stats, Ballistics (BAL) )))
+((( Ballistics (BAL) )))
 Your ability to use/shoot ranged and ballistics weapons such as pistols,
 rifles, throwing knives, and throwing grenades.
 
 Melee (MEL)::
 (((Stats, Melee (MEL) )))
+((( Melee (MEL) )))
 Your close quarter combat ability. Including brawling and melee weapons.
 
 Body (BOD)::
 (((Stats, Body (BOD) )))
+((( Body (BOD) )))
 Your health, stamina, strength, fortitude.
 
 Acrobatics (ACR)::
 (((Stats, Acrobatics (ACR) )))
+((( Acrobatics (ACR) )))
 Your ability to do acrobatic maneuvers. Dodging, balancing, certain martial arts moves, etc.
 
 Essence (ESS)::
 (((Stats, Essence (ESS) )))
+((( Essence (ESS) )))
 Your ability to use magical abilities as well as your ability to power cyberware.
 
 Influence (INF)::
 (((Stats, Influence (INF) )))
+((( Influence (INF) )))
 Ability to sense motive, charm, intimidate, negotiate, etc.
 
 Technomancy (TEC)::
 (((Stats, Technomancy (TEC) )))
+((( Technomancy (TEC) )))
 Your ability to use, manipulate, create, and repair technological devices.
 
 Senses (SEN)::
 (((Stats, Senses (SEN) )))
+((( Senses (SEN) )))
 Initiative, ability to spot and investigate hidden things.
 
 Intelligence (INT)::
 (((Stats, Intelligence (INT) )))
+((( Intelligence (INT) )))
 Knowledge, logic, and deduction.
 
 Assign _2d4-4_ to each stat. If you are not happy with the generated stats, you
@@ -58,94 +68,29 @@ your stats in whichever order you want.
 
 
 === Ancestry
+((( Ancestry )))
 
 Sometimes called races in other systems, your ancestry affects your stats and
 may grant you access to special perks. We will briefly go through the races
 here, but you can find more detailed information in the Maxina Campaign
 booklet.
 
-include::{ancestry_dir}/original-human.adoc[]
 include::{ancestry_dir}/beastkin.adoc[]
 include::{ancestry_dir}/dragonkin.adoc[]
-
-==== Neo-Human, Mechanoid
-> Bot, ‘Borg, Mech.
-
-Mechanoids are vat-grown neo-humans designed to handle a lot of cyberware. They
-resemble normal humans, except that the majority  of them have visible
-cybernetic modifications.
-
-They were developed during the cold war by many nations, and are still
-constructed today. Some were built to be soldiers, some to be scientists or
-engineers, and others to be hackers or riggers. Now about .05% of the earth’s
-population are considered to be mechanoids or of mechanoid descent.
-
-Construct::
-Neo-Humans, cannot use magic in any way, and can never obtain the Magical
-Nature perk.
-
-Mechanical Nature::
-Mechanoids get the Mechanical Nature perk for free.
-
-Mechanical Attunement::
-Mechanoids do not get cyberpsychosis from having a negative Essence score.
-However they will get the psychosis of their Essence drops below -3.
-
-Cybernetic Insight::
-Mechanoids are trained in the Knowledge: Cybernetics skill.
-
-Stat Boost::
-Mechanoids can increase one of the following stats by 1: Body, Acrobatics, or Essence.
+include::{ancestry_dir}/goliath.adoc[]
+include::{ancestry_dir}/infiltrator.adoc[]
+include::{ancestry_dir}/mechanoid.adoc[]
+include::{ancestry_dir}/original-human.adoc[]
 
 
-==== Neo-Human, Goliath
-> Ogre, Frankensteiner, Frank.
+=== Background
 
-Goliaths are vat-grown warriors that were originally created by the millions
-during the Cold War. Though not intended, some Goliaths were able to reproduce
-and so the Goliath race was created.
+==== Veteran
 
-Goliaths resemble Original Humans, but are often a bit taller, stronger, and
-more robust. 
+Your have had an interesting career as a soldier, where
+you have learned the skills of the trade and gained a number
+of interesting contacts.
 
-About .1% of the world’s population are Goliaths.
-
-Construct::
-Neo-Humans, cannot use magic in any way, and can never obtain the Magical Nature perk.
-
-Strong:: 
-Goliaths gain a Stat Boost to BOD.
-
-Tough:: 
-Goliaths gain the following perks for free: Improved Movement Rate, Improved Stress Buffer, and Stocky.
-
-==== Neo-Human, Infiltrator
-> Agent, Elf, Face, Judas.
-
-These vat-grown people are designed to be personable and attractive so they can
-be used as spies, influencers, and clandestine operators. 
-
-They were originally produced during the Cold War, and are still produced to
-this day. This means that some Infiltrators are descendants of the ones created
-more than a century ago, and others are fresh out of the vat. 
-
-Most Infiltrators are designed to look like Original Humans, but some have been
-engineered to look like Beastkin, Dragonkin or even other types of Neo-Human.
-It is almost impossible to determine that a given person is an Infiltrator, and
-not the real deal.
-
-Construct::
-Neo-Humans, cannot use magic in any way, and can never obtain the Magical
-Nature perk.
-
-Pretty and witty::
-Infiltrators gain a boost to two of the following attributes: Influence,
-Senses, and Intelligence.
-
-Improved Senses::
-Infiltrators gain one of the following Perks for free: Connected, Improved
-Perception, Observant, Rich, Sleepless.
-
-
-
-Refer to <<Stats>>
+Expertise:: You are an _Expert_ with _Rifles_ or _Gunnery_.
+Training:: You are _Trained_ with _Heavy Weapons_ or _Handguns_.
+Knowledge:: You are _Trained_ in the _Knowledge: Weapons_ skill.

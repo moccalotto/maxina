@@ -1,0 +1,30 @@
+// MUST HAVE A COMMENT HERE AND A BLANK LINE BELOW
+
+==== Neo-Human, Mechanoid ((( Ancestry, Mechanoid ))) ((( Mechanoid )))
+> Bot, ‘Borg, Mech.
+
+Mechanoids are vat-grown neo-humans designed to handle a lot of cyberware. They
+resemble normal humans, except that the majority  of them have visible
+cybernetic modifications.
+
+They were developed during the cold war by many nations, and are still
+constructed today. Some were built to be soldiers, some to be scientists or
+engineers, and others to be hackers or riggers. Now about .05% of the earth’s
+population are considered to be mechanoids or of mechanoid descent.
+
+Construct::
+Neo-Humans, cannot use magic in any way, and can never obtain the Magical
+Nature perk.
+
+Mechanical Nature::
+Mechanoids get the Mechanical Nature perk for free.
+
+Mechanical Attunement::
+Mechanoids do not get cyberpsychosis from having a negative Essence score.
+However they will get the psychosis of their Essence drops below -3.
+
+Cybernetic Insight::
+Mechanoids are trained in the Knowledge: Cybernetics skill.
+
+Stat Boost::
+Mechanoids can increase one of the following stats by 1: Body, Acrobatics, or Essence.
