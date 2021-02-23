@@ -11,53 +11,53 @@ discuss all the technical terms of the game.
 
 === Stats
 ((( Stats )))
+//
+Sometimes called ((attributes)) or ((ability scores)) in other systems, your
+stats are the core numbers that make up the foundation of your character. The
+human average score is 0. A new character's scores range from -2 to +4.
 
-Sometimes called attributes or ability scores in other systems, your stats are
-the core numbers that make up the foundation of your character. The human
-average score is 0. A new character's scores range from -2 to +4.
-
-Ballistics (BAL)::
+*Ballistics (BAL)*:
 (((Stats, Ballistics (BAL) )))
 ((( Ballistics (BAL) )))
 Your ability to use/shoot ranged and ballistics weapons such as pistols,
 rifles, throwing knives, and throwing grenades.
 
-Melee (MEL)::
+*Melee (MEL)*
 (((Stats, Melee (MEL) )))
 ((( Melee (MEL) )))
 Your close quarter combat ability. Including brawling and melee weapons.
 
-Body (BOD)::
+*Body (BOD)*
 (((Stats, Body (BOD) )))
 ((( Body (BOD) )))
 Your health, stamina, strength, fortitude.
 
-Acrobatics (ACR)::
+*Acrobatics (ACR)*
 (((Stats, Acrobatics (ACR) )))
 ((( Acrobatics (ACR) )))
 Your ability to do acrobatic maneuvers. Dodging, balancing, certain martial arts moves, etc.
 
-Essence (ESS)::
+*Essence (ESS)*
 (((Stats, Essence (ESS) )))
 ((( Essence (ESS) )))
 Your ability to use magical abilities as well as your ability to power cyberware.
 
-Influence (INF)::
+*Influence (INF)*
 (((Stats, Influence (INF) )))
 ((( Influence (INF) )))
 Ability to sense motive, charm, intimidate, negotiate, etc.
 
-Technomancy (TEC)::
+*Technomancy (TEC)*
 (((Stats, Technomancy (TEC) )))
 ((( Technomancy (TEC) )))
 Your ability to use, manipulate, create, and repair technological devices.
 
-Senses (SEN)::
+*Senses (SEN)*
 (((Stats, Senses (SEN) )))
 ((( Senses (SEN) )))
 Initiative, ability to spot and investigate hidden things.
 
-Intelligence (INT)::
+*Intelligence (INT)*
 (((Stats, Intelligence (INT) )))
 ((( Intelligence (INT) )))
 Knowledge, logic, and deduction.
@@ -67,8 +67,7 @@ can instead choose to assign the values  _+4, +3, +2, +1, +1, 0, 0, -1, -1_ to
 your stats in whichever order you want.
 
 
-=== Ancestry
-((( Ancestry )))
+=== (( Ancestry ))
 
 Sometimes called races in other systems, your ancestry affects your stats and
 may grant you access to special perks. We will briefly go through the races
@@ -91,6 +90,8 @@ Your have had an interesting career as a soldier, where
 you have learned the skills of the trade and gained a number
 of interesting contacts.
 
-Expertise:: You are an _Expert_ with _Rifles_ or _Gunnery_.
+Expertise:: You are an _Expert_ with _Automatics_, _Gunnery_, or _Rifles_.
 Training:: You are _Trained_ with _Heavy Weapons_ or _Handguns_.
 Knowledge:: You are _Trained_ in the _Knowledge: Weapons_ skill.
+
+

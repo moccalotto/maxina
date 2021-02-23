@@ -13,16 +13,13 @@
 :title-logo-image: image:logo.png[Logo,100,100]
 :lang: en
 :toc: left
+:penis-caption: Listing
 :toclevels: 2
 :sectnumlevels: 2
 :numbered:
 :icons: font
 :icon-set: fi
 :imagesdir: {docdir}/images
-// :source-language: swift
-// :source-highlighter: rouge
-// :codedir: {docdir}/code
-:datadir: {docdir}/data
 :ancestry_dir: {docdir}/ancestries
 :experimental:
 :stem: latexmath
@@ -52,17 +49,6 @@ ifdef::backend-epub3[]
 :mathematical-inline: true
 endif::[]
 
-ifdef::ebook-format-kf8[]
-// Settings for Kindle
-endif::[]
-
-////
-Do not use ":pygments-css: class" in the block above, as this blocks
-the generation and/or display of highlighted code in EPUB output.
-Also, the ":pygments-style: xcode" is required, since by default the
-EPUB generation uses the "bw" style (i.e., black and white.)
-////
-
 = {doctitle}
 
 :sectnums!:
@@ -78,4 +64,3 @@ include::chapters/glossary.adoc[]
 ifdef::backend-pdf[]
 include::chapters/index.adoc[]
 endif::[]
-
